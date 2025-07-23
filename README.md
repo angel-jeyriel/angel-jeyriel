@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Angel Jeyriel
+## Hi there 👋 I'm Ebere Austine
 
 **Full-stack Web Developer**  
 Specializing in **PHP**, **Laravel**, **JavaScript**, and **Livewire**.  
@@ -37,7 +37,7 @@ Check out some of my projects here on GitHub. I’m always learning, building, a
 
 ### 📫 Let's Connect
 - 📧 Email: [eberechukwuaustine3@gmail.com]
-- 🌐 Portfolio: [https://austine.free.nf/]
+- 🌐 Portfolio: [https://austine.free.nf]
 <!--
   - 💼 LinkedIn: [linkedin.com/in/yourusername]
 
