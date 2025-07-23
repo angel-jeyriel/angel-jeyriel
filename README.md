@@ -30,7 +30,7 @@ Check out some of my projects here on GitHub. I’m always learning, building, a
     <img src="https://github-readme-stats.vercel.app/api?username=angel-jeyriel&show_icons=true&theme=radical" alt="Angel's GitHub Stats" />
     <br />
   -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angel-jeyriel&theme=radical)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=angel-jeyriel&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-jeyriel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
