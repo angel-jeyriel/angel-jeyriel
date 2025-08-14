@@ -18,7 +18,7 @@ Passionate about building **scalable**, **user-focused** applications that solve
 ### 🛠️ Projects & Contributions
 Check out some of my projects here on GitHub. I’m always learning, building, and improving.
 
-- 💼 Currently working on: Laravel-powered Budget Tracker Web Application  
+- 💼 Currently working on: Laravel-powered Expense Tracker Web Application  
 - 📦 Recent work: Authentication systems, CBT systems, Admin dashboards and modern UI components
 
 ---
