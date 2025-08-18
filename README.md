@@ -7,7 +7,7 @@ Passionate about building **scalable**, **user-focused** applications that solve
 ---
 
 ### 🚀 Tech Stack
-- 🛠 **Languages**: PHP, JavaScript, HTML, CSS, SQL  
+- 🛠 **Languages**: PHP, JavaScript, HTML, CSS, SQL 
 - 🧱 **Frameworks/Libraries**: Laravel, Livewire, Filament, CodeIgniter 3, jQuery, Alpine.js, Vue.js  
 - 🎨 **Tools**: Git, Composer, NPM, VS Code, Postman  
 - 🗃 **Databases**: MySQL,PostgreSQL, SQLite  
